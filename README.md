@@ -37,3 +37,5 @@ restOperator.js
 -Concepts: Rest operator (...) for handling dynamic arguments in functions.  
 spreadOperator.js  
 -Concepts: Spread operator (...) for expanding iterable elements or objects.  
+variableScope.js
+- Concepts: Variable scope (Block scope, Function scope, Lexical scope), `let`, `const`, and `var` usage in JavaScript.

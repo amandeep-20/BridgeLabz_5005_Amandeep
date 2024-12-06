@@ -25,3 +25,15 @@ conditionalBranching.js
 -Concepts: Conditional statements (if, else if, else, switch,Ternary operator).  
 logicalOperator.js  
 -Concepts: Logical operators (&&, ||, !).  
+
+06/DEC/24:  
+eventHandler.js  
+-Concepts: Handling events in JavaScript using addEventListener, inline event attributes, bubbling, stopPropagation,preventDefault,target.  
+eventLoop.js  
+-Concepts: Understanding the JavaScript event loop and asynchronous execution.  
+recursion.js  
+-Concepts: Recursive functions for solving problems with self-referential logic.  
+restOperator.js  
+-Concepts: Rest operator (...) for handling dynamic arguments in functions.  
+spreadOperator.js  
+-Concepts: Spread operator (...) for expanding iterable elements or objects.  

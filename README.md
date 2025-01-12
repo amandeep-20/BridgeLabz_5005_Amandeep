@@ -1,6 +1,3 @@
-# BridgeLabz_1261_Sandeep
-# Topic Covered
-
 <h1 align="center">Core JavaScript Programming</h1>  
 *Date-02-12-24*  
 - Use case1  

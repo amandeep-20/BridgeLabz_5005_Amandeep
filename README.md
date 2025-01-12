@@ -1,4 +1,5 @@
-<h1 align="center">Core JavaScript Programming</h1>  
+<h1 align="center">Core JavaScript Programming</h1>
+  
 *Date-02-12-24*  
 - Use case1  
      -  List of employees with their salaries

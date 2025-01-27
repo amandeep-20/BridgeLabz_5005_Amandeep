@@ -197,4 +197,22 @@ basis
 - extending Error
 
 *Date-10-12-24*
-- Problem Statement on Promise, Promise Chaining, Error handling, Custom Error
+- Problem Statement on Promise
+- Promise Chaining
+- Error handling
+- Custom Error
+
+*Date-13-01-25*
+- Async-Await
+- Async Iteration
+- Async Generators
+- MicroTask
+- Hoisting
+- Problem Statement on Async- await
+
+*Date-14-01-25*
+- ProtoType
+- Native Prototype
+- ProtoTypel Inheritance
+- Object Without Proto
+- Practice Problem on prototypes
